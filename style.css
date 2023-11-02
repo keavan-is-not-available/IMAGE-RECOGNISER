@@ -1,0 +1,12 @@
+body{
+    background-image:url("the\ background..jpg") ;
+    background-size: cover;
+    background-position: center;
+}
+#camera,#captured_image{
+    border-radius:  10px;
+    border-color: black;
+    border-style: solid;
+    height:300px;
+    width:300px;
+}
